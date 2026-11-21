@@ -44,3 +44,5 @@ How to Run
 
 Project Goal
 To compare different classification algorithms and identify a suitable model for predicting credit card payment defaults.
+
+Author : Shivaani S
